@@ -1,0 +1,11 @@
+{
+  "name": "node_server",
+  "version": "1.0.0",
+  "description": "Basic node js server",
+  "main": "index.js",
+  "author": "Erick Hernandez",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
